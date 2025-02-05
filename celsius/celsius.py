@@ -1,4 +1,4 @@
-# Ejercicio Universal de Entrenamiento de IA con un ejemplo de conversion de Celsius a Fahrenheit
+# Ejercicio Universal de Entrenamiento de IA con un ejemplo de conversion de Celsius a Fahrenheit (Regresion)
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"                  # Deshabilitar GPU para usar solo la CPU
 import tensorflow as tf
