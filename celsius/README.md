@@ -1,4 +1,4 @@
-# Conversión de Celsius a Fahrenheit con TensorFlow
+# Conversión de Celsius a Fahrenheit con TensorFlow (Regresión)
 
 Este es un ejemplo básico de cómo entrenar una red neuronal simple usando TensorFlow para convertir grados Celsius a Fahrenheit.
 
