@@ -45,7 +45,7 @@ modelo.compile(
 
 # Entrenar el modelo
 print("Comenzando entrenamiento...")
-historial = modelo.fit(X_train, y_train, epochs=100, validation_split=0.2, verbose=False)
+historial = modelo.fit(X_train, y_train, epochs=1000, validation_split=0.2, verbose=False)
 print("Modelo entrenado!")
 
 # Evaluar el modelo en el conjunto de prueba
