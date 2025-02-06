@@ -13,17 +13,15 @@ Este proyecto entrena una **red neuronal totalmente conectada** para clasificar 
 
 ## Crea la Red Neuronal
 Tiene tres capas:
-
-     - Entrada: 784 neuronas (porque la imagen de 28x28 se aplana).
-     
-     - Ocultas: 128 y 64 neuronas con activación ReLU.
-     
-     - Salida: 10 neuronas (una por cada número del 0 al 9).
+- Entrada: 784 neuronas (porque la imagen de 28x28 se aplana).
+- Ocultas: 128 y 64 neuronas con activación ReLU.
+- Salida: 10 neuronas (una por cada número del 0 al 9).
      
 
 ## Muestra Predicciones
-Toma 5 imágenes de prueba.
-Predice el número y las muestra en pantalla.
+- Toma 5 imágenes de prueba.
+- Predice el número y las muestra en pantalla.
+- 
 📌 Salida esperada: Una precisión de ~97% y una imagen con ejemplos de predicción. 🎯
 
 ## Instrucciones para instalación y uso
