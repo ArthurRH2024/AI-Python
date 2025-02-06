@@ -17,3 +17,8 @@ Este es un ejemplo básico de cómo entrenar una red neuronal simple usando Tens
 3. **Instala Matplotlib**:
    Si no tienes Matpltlib instalado, ejecuta:
    pip install matplotlib
+
+### **Conclusión**
+Este es un ejemplo sencillo pero efectivo de cómo usar TensorFlow para aprender la relacion entre grados Celcius y Fahrenheit. Puedes expandirlo agregando más datos, mejorando el modelo o probando diferentes técnicas de preprocesamiento.
+
+Si tienes más preguntas o necesitas ayuda, ¡no dudes en preguntar! 😊
