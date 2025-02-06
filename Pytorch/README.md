@@ -4,9 +4,13 @@ Este proyecto entrena una **red neuronal totalmente conectada** para clasificar 
 
 ## ¿Qué hace este código?
 1- Este código en Python entrena una red neuronal para reconocer dígitos escritos a mano (0-9) usando el dataset MNIST.
+
 2- Convierte las imágenes a tensores y las normaliza para mejorar el aprendizaje.
+
 3- Descarga el dataset MNIST (imágenes de 28x28 píxeles).
+
 4- Crea DataLoaders para cargar las imágenes en lotes de 64 (para entrenar más rápido)
+
 
 ## Crea la Red Neuronal
 Tiene tres capas:
