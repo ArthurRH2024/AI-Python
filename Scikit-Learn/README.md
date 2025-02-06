@@ -3,10 +3,10 @@
  Este es un ejemplo usando Scikit-Learn para entrenar un modelo de clasificación en el dataset MNIST.
 
 ## ¿Qué hace este código?
--Cargar el Dataset MNIST. Contiene 70,000 imágenes de dígitos (28x28 píxeles aplanados en 784 valores). 
--Dividir los Datos. 60,000 imágenes para entrenamiento y 10,000 para prueba.
--Normalizar los Datos. Se usa StandardScaler() para escalar los valores entre -1 y 1 (ayuda a la red a aprender mejor).
--Definir el Modelo (MLPClassifier).
+- Cargar el Dataset MNIST. Contiene 70,000 imágenes de dígitos (28x28 píxeles aplanados en 784 valores). 
+- Dividir los Datos. 60,000 imágenes para entrenamiento y 10,000 para prueba.
+- Normalizar los Datos. Se usa StandardScaler() para escalar los valores entre -1 y 1 (ayuda a la red a aprender mejor).
+- Definir el Modelo (MLPClassifier).
 
 ## Crea la Red con 2 capas ocultas:
 -128 neuronas en la primera capa.
